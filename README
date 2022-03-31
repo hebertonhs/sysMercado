@@ -1,0 +1,55 @@
+![Logo of the project](http://logo_link)
+
+## sysMercado
+
+Sistema para gerenciamento de compras em mercados.
+Permite o acomanhamento e evolução dos preços de suas compras
+
+
+## Technology 
+
+Tecnologias usadas no projeto
+
+* Java 8
+* Angular 10
+
+## Services Used
+
+* Github
+
+
+## Getting started
+
+* To install gems:
+>    $ bundle install
+* To create the bank and do as migrations:
+>    $ rake db:create db:migrate db:seed
+* To run the project:
+>    $ rails s
+
+## How to use
+
+Here will be the images and descriptions. Principal content.
+
+
+## Features
+
+
+## Links
+
+  - Link of deployed application: (if has been deployed)
+  - Repository: https://link_of_repository
+
+
+## Versioning
+
+1.0.0.0
+
+
+## Authors
+
+* **Heberton Henrique da Silva**: @hebertonhs (https://github.com/hebertonhs)
+
+
+Please follow github and join us!
+Thanks to visiting me and good coding!
